@@ -1,4 +1,4 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
 *{
     margin: 0;
@@ -33,10 +33,10 @@ section#telefone{
 }
 iframe#tela{
     position: relative;
-    top: 56px;
-    left: 16px;
-    width: 187px;
-    height: 330px;
+    top: 48px;
+    left: 7px;
+    width: 196px;
+    height: 340px;
 }
 section#redes-sociais {
     text-align: right;
